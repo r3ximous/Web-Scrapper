@@ -19,7 +19,7 @@ def send_query(query_file):
         print({child.tag: child.text for child in row})
 
 
-query_files = ["query1.xml", "query2.xml", "query3.xml", "query4.xml", "query5.xml"]
+query_files = ["dummy_queries/query1.xml", "dummy_queries/query2.xml", "dummy_queries/query3.xml", "dummy_queries/query4.xml", "dummy_queries/query5.xml"]
     
 for query_file in query_files:
     print(f"Sending query from {query_file}")
