@@ -1,0 +1,6 @@
+<query>
+   <condition>
+      <column> Title </column>
+      <value> Assistant Professor </value>
+   </condition>
+</query>

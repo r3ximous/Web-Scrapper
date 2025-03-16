@@ -1,0 +1,6 @@
+<query>
+   <condition>
+      <column> Email </column>
+      <value> hkscad1@rit.edu </value>
+   </condition>
+</query>

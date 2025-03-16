@@ -1,0 +1,10 @@
+<query>
+   <condition>
+      <column> Title </column>
+      <value> Adjunct Assistant Professor </value>
+   </condition>
+   <condition>
+      <column> Name </column>
+      <value> Fahed Jubair </value>
+   </condition>
+</query>
